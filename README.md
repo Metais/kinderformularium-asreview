@@ -19,7 +19,7 @@ This repository contains a simple tool for automatically extracting references f
 
 ## Installation & Usage
 
-1. **Download the Tool**: Download the latest release from the [Releases](#) section.
+1. **Download the Tool**: Download the latest release from the [Releases](https://github.com/Metais/kinderformularium-asreview/releases) section.
 2. **Prepare Your Files**: Move all `.docx` files you want to convert into a folder named `DRDs`. Make sure the `.exe` file is in the same folder as the `DRDs` folder.
 3. **Execute**: Double-click the `extractor.exe` file.
 4. **Review Output**: Open the `csv` folder inside the `DRDs` directory to find your extracted references in CSV format.
