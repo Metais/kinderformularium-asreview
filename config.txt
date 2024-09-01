@@ -1,0 +1,5 @@
+# Set to 'true' if you want to add another column detailing possible lack of full-text capability
+only_full_texts=false
+
+# Set to your institution's url for the worldcat website, only matters if previous setting is set to 'true'
+institution_worldcat_url=https://ru.on.worldcat.org/
